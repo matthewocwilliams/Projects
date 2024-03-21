@@ -5,6 +5,7 @@ Marketing Analysis Projects
 - Decision Trees - Engagement to Conversion
 - Product Analytics
 - Product Recommendations System
+- Customer Analysis
 - Customer Lifetime Value
 - Customer Segmentation
 - Retaining Customers - Churn and Retention
