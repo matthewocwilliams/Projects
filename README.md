@@ -1,5 +1,5 @@
 # Marketing Data Science Project
-Marketing Analysis Projects 
+Data Science projects in jupyter notebook focusing on Marketing topics
 - A/B Test
 - Regression Analysis - Customer Analysis
 - Decision Trees - Engagement to Conversion
