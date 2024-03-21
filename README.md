@@ -1,4 +1,4 @@
-# Marketing Data Science Project
+# Marketing Data Science Projects
 Data Science Python projects focusing on various marketing methodology. 
 - A/B Test
 - Regression Analysis - Customer Analysis
